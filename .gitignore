@@ -1,0 +1,6 @@
+.idea/
+geckodriver-v0.19.1-linux32.tar.gz
+geckodriver.log
+ghostdriver.log
+*.pyc
+
